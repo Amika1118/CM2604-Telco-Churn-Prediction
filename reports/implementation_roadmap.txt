@@ -1,0 +1,4 @@
+Weeks 1-2: Final validation, automation of preprocessing, tests.
+Weeks 3-4: Staging evaluation and A/B tests.
+Weeks 5-8: Production rollout and CRM integration.
+Weeks 9-12: Monitoring and iterative improvements.

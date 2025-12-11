@@ -1,0 +1,9 @@
+Model: Decision Tree (Baseline)
+Accuracy: 0.7984
+Precision: 0.6347
+Recall: 0.5668
+F1-Score: 0.5989
+ROC-AUC: 0.8297
+Confusion Matrix:
+[[913 122]
+ [162 212]]

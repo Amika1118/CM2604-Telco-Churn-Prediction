@@ -1,0 +1,9 @@
+Model: Decision Tree (Manually Tuned)
+Accuracy: 0.7921
+Precision: 0.6364
+Recall: 0.5053
+F1-Score: 0.5633
+ROC-AUC: 0.8349
+Confusion Matrix:
+[[927 108]
+ [185 189]]

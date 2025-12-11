@@ -1,0 +1,2 @@
+Bias analysis: evaluate model performance on subgroups (e.g., SeniorCitizen, gender).
+Recommended mitigation: reweighting, monitoring, fairness-aware thresholds, human review.

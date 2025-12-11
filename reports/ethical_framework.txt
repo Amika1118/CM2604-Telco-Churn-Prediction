@@ -1,0 +1,4 @@
+Fairness: monitor and mitigate bias across protected groups (gender, age).
+Transparency: provide explanations for high-risk predictions (feature importances, SHAP).
+Privacy: remove PII, secure stored models, follow GDPR where applicable.
+Accountability: maintain logs and human-in-the-loop for retention actions.

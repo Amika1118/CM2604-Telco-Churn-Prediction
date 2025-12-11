@@ -1,0 +1,4 @@
+Monitoring: track accuracy, recall, AUC, and data drift; alert on degradation.
+Retraining: schedule periodic retraining and validation with new data.
+Explainability: produce per-prediction explanations for business users.
+Infrastructure: containerized deployment, CI/CD, model and data versioning.

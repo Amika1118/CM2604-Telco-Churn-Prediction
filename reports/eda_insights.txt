@@ -1,0 +1,6 @@
+Dataset shape: (7043, 20)
+Overall churn rate: 0.265
+Highest churn group in Contract: Month-to-month (42.7%)
+Highest churn group in InternetService: Fiber optic (41.9%)
+Highest churn group in PaymentMethod: Electronic check (45.3%)
+Highest churn group in SeniorCitizen: 1 (41.7%)
