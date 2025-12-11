@@ -13,9 +13,7 @@ This project addresses all coursework specifications:
 ### Business Problem
 Predict which customers are likely to cancel their subscriptions ("churn") based on demographic information, service usage, and billing details. This enables proactive retention strategies to reduce revenue loss.
 
-## Repository Structure
-
-```
+### Repo Structure
 CM2604-Telco-Churn-Prediction/
 ├── data/                           # Dataset storage
 │   └── dataset.csv                # Processed dataset (not included, upload separately)
@@ -47,14 +45,11 @@ CM2604-Telco-Churn-Prediction/
 │   ├── ethical_framework.txt      # AI ethics documentation
 │   ├── deployment_strategy.txt    # Post-deployment strategy
 │   └── bias_analysis.txt          # Fairness considerations
-├── CM2604-Telco-Churn-Prediction.ipynb          # Main project notebook
-├── CM2604_Telco_Churn_Prediction (1).ipynb      # Alternative notebook version
-├── [.ipynb file]                                # Python script 
-├── [.py file]                                   # Python script
-└── README.md                                    # Project documentation (this file)
-```
-
-## Recent Updates (December 2025)
+├── notebook.ipynb                  # Complete Colab notebook
+├── cm2604_telco_churn.py          # Single script version
+├── README.md                       # Project documentation (this file)
+├── requirements.txt               # Python dependencies
+└── .gitignore                     # Git exclusion rules
 
 ### Added Files:
 1. **CM2604_Telco_Churn_Prediction (1).ipynb** - Alternative notebook version with additional experiments
